@@ -10,11 +10,11 @@ The aim of the project is to create a small console level puzzle game.
 Download the file, CowsAndBullsNumbers.java and run as a Java application.
 
 ## How to play?
-Computer would generate a random 3 or 4 or 5 digit number based on user input.
-User has to guess the computer generated number.
-For digit of the guessed number, if it's there in the computer generated number and in the same place, that is a Bull. If the digit is there but in the different position, it is a Cow.
-These Cows and Bulls must be used to guess the number (if used wisely, it will take you a step closer!).
-The game ends when you guess the right number.
+###1. Computer would generate a random 3 or 4 or 5 digit number based on user input.
+###2. User has to guess the computer generated number.
+###3. For each digit of the guessed number, if it's there in the computer generated number and in the same position, that is a Bull. If the digit is there but in the different position, it is a Cow.
+###4. These Cows and Bulls must be used to guess the number (if used wisely, it will take you a step closer!).
+###5. The game ends when you guess the right number.
 
 ## Do you want to contribute?
 Your contributions are always welcome! Feel free to improve existing code, documentation or implement new algorithm.
